@@ -2,6 +2,8 @@
 
 Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.codewars.com/users/hevalhazalkurt)!
 
+<b>Important! : These solutions for education purpose only. Don't directly use them on Codewars katas. Create your own solutions to learn more.</b>
+
 ## 7kyu Katas
 
 <br>
