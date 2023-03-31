@@ -1,4 +1,4 @@
-# CodeWars Python Solutions
+# CodeWars SQL Solutions
 
 ---
 
