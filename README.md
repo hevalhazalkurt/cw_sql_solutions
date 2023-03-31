@@ -10,7 +10,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
-| [**SQL Basics - Position**](7kyu_Katas/SQL_Basics_Position.md) | 1 | `query`, `position` | [link](https://www.codewars.com/kata/59401e0e54a655a298000040) |
+| [**SQL Basics - Position**](7kyu_Katas/SQL_Basics_Position.md) | 1 | `select`, `position` | [link](https://www.codewars.com/kata/59401e0e54a655a298000040) |
 
 
 
@@ -20,5 +20,6 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
-| [**Multiply**](8kyu_Katas/Multiply.md) | 1 | `query`, `as`, `aggregate ` | [link](https://www.codewars.com/kata/50654ddff44f800200000004) |
-| [**Opposites Attract**](8kyu_Katas/Opposites_Attract.md) | 2 | `query`, `as`, `comparison ` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
+| [**Adults only (SQL for Beginners 1)**](8kyu_Katas/Adults_only_SQL_for_Beginners_1.md) | 1 | `select`, `condition` | [link](https://www.codewars.com/kata/590a95eede09f87472000213) |
+| [**Multiply**](8kyu_Katas/Multiply.md) | 1 | `select`, `as`, `aggregate ` | [link](https://www.codewars.com/kata/50654ddff44f800200000004) |
+| [**Opposites Attract**](8kyu_Katas/Opposites_Attract.md) | 2 | `select`, `as`, `comparison ` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
