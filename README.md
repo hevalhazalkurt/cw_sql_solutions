@@ -21,3 +21,4 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Multiply**](8kyu_Katas/Multiply.md) | 1 | `query`, `as`, `aggregate ` | [link](https://www.codewars.com/kata/50654ddff44f800200000004) |
+| [**Opposites Attract**](8kyu_Katas/Opposites_Attract.md) | 2 | `query`, `as`, `comparison ` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
