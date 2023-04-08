@@ -11,6 +11,7 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**SQL Basics - Position**](7kyu_Katas/SQL_Basics_Position.md) | 1 | `select`, `position` | [link](https://www.codewars.com/kata/59401e0e54a655a298000040) |
+| [**SQL Basics: Simple JOIN**](7kyu_Katas/SQL_Basics_Simple_JOIN.md) | 1 | `select`, `join` | [link](https://www.codewars.com/kata/5802e32dd8c944e562000020) |
 
 
 
