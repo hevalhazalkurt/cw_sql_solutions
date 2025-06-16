@@ -22,5 +22,6 @@ Join [CodeWars](https://www.codewars.com/r/hbGshA) and follow [me](https://www.c
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
 | [**Adults only (SQL for Beginners 1)**](8kyu_Katas/Adults_only_SQL_for_Beginners_1.md) | 1 | `select`, `condition` | [link](https://www.codewars.com/kata/590a95eede09f87472000213) |
+| [**Collect Tuition (SQL for Beginners #4)**](8kyu_Katas/Collect_Tuition_SQL_for_Beginners_4.md) | 1 | `select`, `condition` | [link](https://www.codewars.com/kata/5910b0d378cc2ba91400000b) |
 | [**Multiply**](8kyu_Katas/Multiply.md) | 1 | `select`, `as`, `aggregate ` | [link](https://www.codewars.com/kata/50654ddff44f800200000004) |
 | [**Opposites Attract**](8kyu_Katas/Opposites_Attract.md) | 2 | `select`, `as`, `comparison ` | [link](https://www.codewars.com/kata/555086d53eac039a2a000083) |
